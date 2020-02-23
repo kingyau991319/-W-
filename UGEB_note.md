@@ -1,5 +1,5 @@
 <H8>Lecture 2</H8>
-<br></br>
+<hr></hr>
 Major Consdierations in Environmental Policy-Making
 <ul>
     <li> Value </li>
@@ -10,7 +10,6 @@ Major Consdierations in Environmental Policy-Making
     <li> Stakeholder Views </li>
 </ul>
 
-<br></br>
 
 <ul>
     <li>Fact 
