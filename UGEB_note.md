@@ -37,10 +37,14 @@ Major Consdierations in Environmental Policy-Making
 
 <ul>
     <li>real value thinking</li>
+
     <li>Environmental ethics -> how we view "environment" difference view between stakeholders</li>
+
     <li>"Environment" -> Tamed and mastered , To live with , Can we "return" to nature?</li>
+
     <li>Disparity -> fair, between the resoucre, Inequality, Carbon Footprint
         for Hk, there are 6.2 ton Carboon Footprint for everyone orz</li>
+
     <li>Conflict bewtween development<b>(social? econ?)</b>
         <ul>
             <li>prioirty</li>
@@ -48,11 +52,29 @@ Major Consdierations in Environmental Policy-Making
             <li>Balanced?Chosen? -> Walking on the Rope lol.</li>
         </ul>
     </li>
+
     <li>matter of choice -> :?GDP / :?Quality of life /:? well-being?</li>
+
     <li>Did we need think that? Matter of necessity? Which value?</li>
     How to use different view to make a judgement?
     <li>right? wrong? justice?</li>
+
     <li>problem of problem? result of result? conflicting values?</li>
+
 </ul>
 <hr></hr>
 <div id ='Politics'>Politics</div>
+
+<ul>
+</ul>
+
+
+<hr></hr>
+<div id ='Science & Tech'>Science & Tech</div>
+<hr></hr>
+<div id ='Policy Design'>Policy Design</div>
+<hr></hr>
+<div id ='Enivronmental Managemenet'>Enivronmental Managemenet</div>
+<hr></hr>
+<div id ='Stakeholder Views'>Stakeholder Views</div>
+<hr></hr>
