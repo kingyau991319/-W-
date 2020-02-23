@@ -36,31 +36,23 @@ Major Consdierations in Environmental Policy-Making
 <div id ='Value'><h3>Value</h3></div>
 
 <ul>
-    <li>real value thinking</li>
-
-    <li>Environmental ethics -> how we view "environment" difference view between stakeholders</li>
-
-    <li>"Environment" -> Tamed and mastered , To live with , Can we "return" to nature?</li>
-
+    <li>real value thinking</li><p>
+    <li>Environmental ethics -> how we view "environment" difference view between stakeholders</li><p>
+    <li>"Environment" -> Tamed and mastered , To live with , Can we "return" to nature?</li><p>
     <li>Disparity -> fair, between the resoucre, Inequality, Carbon Footprint
-        for Hk, there are 6.2 ton Carboon Footprint for everyone orz</li>
-
-    <li>Conflict bewtween development<b>(social? econ?)</b>
+        for Hk, there are 6.2 ton Carboon Footprint for everyone orz</li><p>
+    <li>Conflict bewtween development<b>(social? econ?)</b><p></li>
         <ul>
-            <li>prioirty</li>
-            <li>important(view on cost)</li>
-            <li>Balanced?Chosen? -> Walking on the Rope lol.</li>
+            <li>prioirty</li><p>
+            <li>important(view on cost)</li><p>
+            <li>Balanced?Chosen? -> Walking on the Rope lol.</li><p>
         </ul>
     </li>
-
-    <li>matter of choice -> :?GDP / :?Quality of life /:? well-being?</li>
-
-    <li>Did we need think that? Matter of necessity? Which value?</li>
+    <li>matter of choice -> :?GDP / :?Quality of life /:? well-being?</li><p>
+    <li>Did we need think that? Matter of necessity? Which value?</li><p>
     How to use different view to make a judgement?
-    <li>right? wrong? justice?</li>
-
-    <li>problem of problem? result of result? conflicting values?</li>
-
+    <li>right? wrong? justice?</li><p>
+    <li>problem of problem? result of result? conflicting values?</li><p>
 </ul>
 <hr></hr>
 <div id ='Politics'>Politics</div>
