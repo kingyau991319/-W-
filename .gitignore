@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# OS files
+.DS_Store
+
+# build outputs
+dist/
+build/
+out/
+
+# Electron packaging
+release/
+dist-electron/
+
+# IDEs
+.vscode/
+.idea/
+
+# misc
+.cache/
+.parcel-cache/
+.next/
+*.tgz
